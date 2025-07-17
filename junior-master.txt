@@ -1,1 +1,1 @@
-this is junior master file for jenkins CI Pipeline
+this is junior master file for jenkins CI Pipeline.
